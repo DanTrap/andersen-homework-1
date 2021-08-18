@@ -1,1 +1,3 @@
-some new feature in project 
+some new feature some conflict in project 
+sheeesh really nice feature
+
